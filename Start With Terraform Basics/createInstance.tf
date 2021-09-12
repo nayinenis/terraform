@@ -1,5 +1,5 @@
 
-resource "aws_instance" "MyFirstInstnace" {
+resource "aws_instance" "MyFirstInstnacess" {
   count         = 3
   ami           = "ami-0bff25b43a4479334"
   instance_type = "t4g.micro"
