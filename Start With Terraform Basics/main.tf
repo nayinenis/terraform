@@ -2,7 +2,7 @@
 
 # Configure the AWS Provider
 provider "aws" {
-    version = "3.53.0"
+    version = "3.76.1"
     access_key = "AKIAXC3FBB2OJJC3DUIP"
     secret_key = "SECRET_KEY"
     region     = "us-east-2"
