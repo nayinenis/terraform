@@ -10,6 +10,6 @@ provider "aws" {
 
 # Configure the Microsoft Azure Provider
 provider "azurerm" {
-    version = "2.72.0"
+    version = "4.78.0"
     features {}
 }
